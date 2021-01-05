@@ -1,0 +1,80 @@
+Ruby Tide Astrometer
+Ruby Tide Axe
+Ruby Tide Blade
+Ruby Tide Bracelets of Aiming
+Ruby Tide Bracelets of Casting
+Ruby Tide Bracelets of Fending
+Ruby Tide Bracelets of Healing
+Ruby Tide Bracelets of Slaying
+Ruby Tide Cane
+Ruby Tide Claws
+Ruby Tide Codex
+Ruby Tide Daggers
+Ruby Tide Earrings of Aiming
+Ruby Tide Earrings of Casting
+Ruby Tide Earrings of Fending
+Ruby Tide Earrings of Healing
+Ruby Tide Earrings of Slaying
+Ruby Tide Greatsword
+Ruby Tide Grimoire
+Ruby Tide Gunblade
+Ruby Tide Lance
+Ruby Tide Longbow
+Ruby Tide Musketoon
+Ruby Tide Necklace of Aiming
+Ruby Tide Necklace of Casting
+Ruby Tide Necklace of Fending
+Ruby Tide Necklace of Healing
+Ruby Tide Necklace of Slaying
+Ruby Tide Rapier
+Ruby Tide Ring of Aiming
+Ruby Tide Ring of Casting
+Ruby Tide Ring of Fending
+Ruby Tide Ring of Healing
+Ruby Tide Ring of Slaying
+Ruby Tide Rod
+Ruby Tide Shield
+Ruby Tide Uchigatana
+Ruby Tide Windfire Wheels
+Shisui Joi of Aiming
+Shisui Joi of Casting
+Shisui Joi of Fending
+Shisui Joi of Healing
+Shisui Joi of Maiming
+Shisui Joi of Scouting
+Shisui Joi of Striking
+Shisui Kohakama of Aiming
+Shisui Kohakama of Casting
+Shisui Kohakama of Fending
+Shisui Kohakama of Healing
+Shisui Kohakama of Maiming
+Shisui Kohakama of Scouting
+Shisui Kohakama of Striking
+Shisui Kote of Aiming
+Shisui Kote of Casting
+Shisui Kote of Fending
+Shisui Kote of Healing
+Shisui Kote of Maiming
+Shisui Kote of Scouting
+Shisui Kote of Striking
+Shisui Mengu of Aiming
+Shisui Mengu of Casting
+Shisui Mengu of Fending
+Shisui Mengu of Healing
+Shisui Mengu of Maiming
+Shisui Mengu of Scouting
+Shisui Mengu of Striking
+Shisui Obi of Aiming
+Shisui Obi of Casting
+Shisui Obi of Fending
+Shisui Obi of Healing
+Shisui Obi of Maiming
+Shisui Obi of Scouting
+Shisui Obi of Striking
+Shisui Zori of Aiming
+Shisui Zori of Casting
+Shisui Zori of Fending
+Shisui Zori of Healing
+Shisui Zori of Maiming
+Shisui Zori of Scouting
+Shisui Zori of Striking

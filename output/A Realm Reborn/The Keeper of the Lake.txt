@@ -1,0 +1,41 @@
+Bogatyr's Armillae of Casting
+Bogatyr's Armillae of Healing
+Bogatyr's Cap of Aiming
+Bogatyr's Circlet of Healing
+Bogatyr's Earrings of Aiming
+Bogatyr's Earrings of Casting
+Bogatyr's Gloves of Aiming
+Bogatyr's Gloves of Healing
+Bogatyr's Longcoat of Aiming
+Bogatyr's Longcoat of Casting
+Bogatyr's Necklace of Aiming
+Bogatyr's Necklace of Casting
+Bogatyr's Necklace of Healing
+Bogatyr's Ring of Aiming
+Bogatyr's Ring of Healing
+Bogatyr's Rope Belt of Casting
+Bogatyr's Rope Belt of Healing
+Bogatyr's Slops of Aiming
+Bogatyr's Slops of Healing
+Bogatyr's Thighboots of Casting
+Picaroon's Armguards of Scouting
+Picaroon's Armguards of Striking
+Picaroon's Belt of Maiming
+Picaroon's Belt of Scouting
+Picaroon's Earrings of Slaying
+Picaroon's Eyepatch of Striking
+Picaroon's Headgear of Maiming
+Picaroon's Jacket of Maiming
+Picaroon's Leggings of Maiming
+Picaroon's Leggings of Scouting
+Picaroon's Leggings of Striking
+Picaroon's Necklace of Slaying
+Picaroon's Trousers of Scouting
+Picaroon's Trousers of Striking
+Varlet's Armillae
+Varlet's Breeches
+Varlet's Gauntlets
+Varlet's Hauberk
+Varlet's Ring
+Varlet's Sabatons
+Varlet's Sallet

@@ -1,0 +1,80 @@
+Lakeland Amulet of Aiming
+Lakeland Amulet of Casting
+Lakeland Amulet of Fending
+Lakeland Amulet of Healing
+Lakeland Amulet of Slaying
+Lakeland Astrometer
+Lakeland Belt of Aiming
+Lakeland Belt of Casting
+Lakeland Belt of Fending
+Lakeland Belt of Healing
+Lakeland Belt of Maiming
+Lakeland Belt of Scouting
+Lakeland Belt of Striking
+Lakeland Blade
+Lakeland Blinder of Scouting
+Lakeland Blinder of Striking
+Lakeland Boots of Casting
+Lakeland Brais of Maiming
+Lakeland Breeches of Fending
+Lakeland Breeches of Healing
+Lakeland Cane
+Lakeland Circlet of Maiming
+Lakeland Claws
+Lakeland Coat of Aiming
+Lakeland Coat of Casting
+Lakeland Coat of Fending
+Lakeland Codex
+Lakeland Composite Bow
+Lakeland Cuirass of Maiming
+Lakeland Culverin
+Lakeland Daggers
+Lakeland Earring of Aiming
+Lakeland Earring of Casting
+Lakeland Earring of Fending
+Lakeland Earring of Healing
+Lakeland Earring of Slaying
+Lakeland Gauntlets of Fending
+Lakeland Gauntlets of Maiming
+Lakeland Glaives
+Lakeland Gloves of Aiming
+Lakeland Gloves of Casting
+Lakeland Gloves of Healing
+Lakeland Gloves of Scouting
+Lakeland Gloves of Striking
+Lakeland Greatsword
+Lakeland Greaves of Fending
+Lakeland Grimoire
+Lakeland Hat of Aiming
+Lakeland Hat of Healing
+Lakeland Hood of Fending
+Lakeland Kite Shield
+Lakeland Lance
+Lakeland Longcoat of Scouting
+Lakeland Longcoat of Striking
+Lakeland Longsword
+Lakeland Manatrigger
+Lakeland Necklace of Aiming
+Lakeland Necklace of Casting
+Lakeland Necklace of Fending
+Lakeland Necklace of Healing
+Lakeland Necklace of Slaying
+Lakeland Ring of Aiming
+Lakeland Ring of Casting
+Lakeland Ring of Fending
+Lakeland Ring of Healing
+Lakeland Ring of Slaying
+Lakeland Robe of Healing
+Lakeland Rod
+Lakeland Sabatons of Maiming
+Lakeland Shoes of Aiming
+Lakeland Slops of Scouting
+Lakeland Slops of Striking
+Lakeland Smallsword
+Lakeland Thighboots of Healing
+Lakeland Thighboots of Scouting
+Lakeland Thighboots of Striking
+Lakeland Tricorne of Casting
+Lakeland Trousers of Aiming
+Lakeland Trousers of Casting
+Lakeland War Axe

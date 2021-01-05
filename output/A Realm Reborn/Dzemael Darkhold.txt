@@ -1,0 +1,42 @@
+Buccaneer's Boots
+Buccaneer's Gloves
+Buccaneer's Sarouel
+Buccaneer's Sash
+Buccaneer's Shirt
+Buccaneer's Tricorne
+Coliseum Galerus
+Coliseum Loincloth
+Coliseum Shawl
+Coliseum Subligar
+Dzemael Bardiche
+Dzemael Carbine
+Dzemael Jamadhars
+Dzemael Longbow
+Dzemael Planisphere
+Dzemael Pugiones
+Dzemael Spear
+Dzemael Staff
+Dzemael Whispering Rod
+Dzemael Winglet
+Dzemael Zweihander
+Harlequin's Acton
+Harlequin's Belt
+Harlequin's Boots
+Harlequin's Cap
+Harlequin's Mitts
+Harlequin's Tights
+Pince-nez
+Scorpion Shield
+Sentinel's Celata
+Sentinel's Cuirass
+Sentinel's Gauntlets
+Sentinel's Plate Belt
+Sentinel's Sabatons
+Sentinel's Trousers
+Templar's Chain Coif
+Templar's Haubergeon
+Templar's Skirt
+Templar's Sollerets
+Templar's Tassets
+Templar's Vambraces
+The Book of Dzemael

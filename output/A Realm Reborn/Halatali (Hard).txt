@@ -1,0 +1,58 @@
+Darklight Band of Aiming
+Darklight Band of Casting
+Darklight Band of Fending
+Darklight Band of Healing
+Darklight Band of Maiming
+Darklight Band of Striking
+Darklight Boots of Casting
+Darklight Boots of Healing
+Darklight Bracelet of Aiming
+Darklight Bracelet of Casting
+Darklight Bracelet of Fending
+Darklight Bracelet of Healing
+Darklight Bracelet of Maiming
+Darklight Bracelet of Striking
+Darklight Bracers of Aiming
+Darklight Breeches of Casting
+Darklight Choker of Aiming
+Darklight Choker of Casting
+Darklight Choker of Fending
+Darklight Choker of Healing
+Darklight Choker of Maiming
+Darklight Choker of Striking
+Darklight Corselet of Striking
+Darklight Cowl of Healing
+Darklight Earrings of Aiming
+Darklight Earrings of Casting
+Darklight Earrings of Fending
+Darklight Earrings of Healing
+Darklight Earrings of Maiming
+Darklight Earrings of Striking
+Darklight Eyepatch of Striking
+Darklight Gauntlets
+Darklight Gloves of Casting
+Darklight Hunting Belt
+Darklight Kecks
+Darklight Sollerets
+Darklight Trousers
+Darklight Whipping Belt
+Fistfighter's Breeches
+Fistfighter's Gloves
+Fistfighter's Jackboots
+Heavy Darklight Armor
+Heavy Darklight Plate Belt
+Hussar's Goggles
+Hussar's Jackcoat
+Hussar's Sash
+Magician's Hat
+Magician's Robe
+Magician's Sash
+Pilgrim's Gloves
+Pilgrim's Sash
+Pilgrim's Slops
+Protector's Gauntlets
+Protector's Sollerets
+Protector's Trousers
+Shikaree's Boots
+Shikaree's Doublet
+Shikaree's Mask

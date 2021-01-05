@@ -1,0 +1,78 @@
+Baldur Axe
+Baldur Blade
+Baldur Bow
+Baldur Cane
+Baldur Claws
+Baldur Codex
+Baldur Daggers
+Baldur Grimoire
+Baldur Katana
+Baldur Planisphere
+Baldur Rimfire
+Baldur Rod
+Baldur Shield
+Baldur Spear
+Baldur Sword
+Baldur Tuck
+Valerian Dragoon's Barbut
+Valerian Dragoon's Gauntlets
+Valerian Dragoon's Mail
+Valerian Dragoon's Plate Belt
+Valerian Dragoon's Sollerets
+Valerian Dragoon's Trousers
+Valerian Fusilier's Boots
+Valerian Fusilier's Bracelet
+Valerian Fusilier's Choker
+Valerian Fusilier's Earrings
+Valerian Fusilier's Gambison
+Valerian Fusilier's Halfgloves
+Valerian Fusilier's Pot Helm
+Valerian Fusilier's Ring
+Valerian Fusilier's Sarouel
+Valerian Fusilier's Twinbelt
+Valerian Rogue's Bandana
+Valerian Rogue's Gaskins
+Valerian Rogue's Gilet
+Valerian Rogue's Halfgloves
+Valerian Rogue's Highboots
+Valerian Rogue's Twinbelt
+Valerian Shaman's Boots
+Valerian Shaman's Bracelet
+Valerian Shaman's Chasuble
+Valerian Shaman's Choker
+Valerian Shaman's Dress Gloves
+Valerian Shaman's Earrings
+Valerian Shaman's Ring
+Valerian Shaman's Sash
+Valerian Shaman's Smalls
+Valerian Shaman's Temple Chain
+Valerian Smuggler's Bandana
+Valerian Smuggler's Bracelet
+Valerian Smuggler's Choker
+Valerian Smuggler's Earrings
+Valerian Smuggler's Gaskins
+Valerian Smuggler's Gilet
+Valerian Smuggler's Halfgloves
+Valerian Smuggler's Highboots
+Valerian Smuggler's Ring
+Valerian Smuggler's Twinbelt
+Valerian Terror Knight's Barbut
+Valerian Terror Knight's Bracelet
+Valerian Terror Knight's Choker
+Valerian Terror Knight's Earrings
+Valerian Terror Knight's Gauntlets
+Valerian Terror Knight's Plate Belt
+Valerian Terror Knight's Plate Mail
+Valerian Terror Knight's Ring
+Valerian Terror Knight's Sollerets
+Valerian Terror Knight's Trousers
+Valerian Wizard's Bracelet
+Valerian Wizard's Choker
+Valerian Wizard's Earrings
+Valerian Wizard's Fingerless Halfgloves
+Valerian Wizard's Hat
+Valerian Wizard's Longkilt
+Valerian Wizard's Pattens
+Valerian Wizard's Ring
+Valerian Wizard's Robe
+Valerian Wizard's Sash

@@ -1,0 +1,80 @@
+Nabaath Axe
+Nabaath Belt of Aiming
+Nabaath Belt of Casting
+Nabaath Belt of Fending
+Nabaath Belt of Healing
+Nabaath Belt of Maiming
+Nabaath Belt of Scouting
+Nabaath Belt of Striking
+Nabaath Blade
+Nabaath Bottoms of Casting
+Nabaath Bottoms of Healing
+Nabaath Bottoms of Scouting
+Nabaath Bow
+Nabaath Bracers of Striking
+Nabaath Cane
+Nabaath Cap of Healing
+Nabaath Chakrams
+Nabaath Choker of Aiming
+Nabaath Choker of Casting
+Nabaath Choker of Fending
+Nabaath Choker of Healing
+Nabaath Choker of Slaying
+Nabaath Claws
+Nabaath Coat of Scouting
+Nabaath Codex
+Nabaath Crakows of Aiming
+Nabaath Crown of Casting
+Nabaath Daggers
+Nabaath Doublet of Casting
+Nabaath Doublet of Healing
+Nabaath Doublet of Striking
+Nabaath Earrings of Aiming
+Nabaath Earrings of Casting
+Nabaath Earrings of Fending
+Nabaath Earrings of Healing
+Nabaath Earrings of Slaying
+Nabaath Field Dressing of Aiming
+Nabaath Fringe Boots of Fending
+Nabaath Fringe Boots of Maiming
+Nabaath Gauntlets of Fending
+Nabaath Gauntlets of Maiming
+Nabaath Gloves of Casting
+Nabaath Gloves of Healing
+Nabaath Gloves of Scouting
+Nabaath Greaves of Striking
+Nabaath Grimoire
+Nabaath Headgear of Striking
+Nabaath Katana
+Nabaath Leather Ring of Aiming
+Nabaath Leather Ring of Casting
+Nabaath Leather Ring of Fending
+Nabaath Leather Ring of Healing
+Nabaath Leather Ring of Slaying
+Nabaath Manatrigger
+Nabaath Planisphere
+Nabaath Pot Helm of Fending
+Nabaath Pot Helm of Maiming
+Nabaath Rimfire
+Nabaath Rod
+Nabaath Scarf of Aiming
+Nabaath Shield
+Nabaath Shoes of Casting
+Nabaath Shoes of Healing
+Nabaath Shoes of Scouting
+Nabaath Skirt of Striking
+Nabaath Slops of Aiming
+Nabaath Spear
+Nabaath Sword
+Nabaath Trousers of Fending
+Nabaath Trousers of Maiming
+Nabaath Tuck
+Nabaath Turban of Scouting
+Nabaath Vest of Aiming
+Nabaath Vest of Fending
+Nabaath Vest of Maiming
+Nabaath Wristband of Aiming
+Nabaath Wristband of Casting
+Nabaath Wristband of Fending
+Nabaath Wristband of Healing
+Nabaath Wristband of Slaying

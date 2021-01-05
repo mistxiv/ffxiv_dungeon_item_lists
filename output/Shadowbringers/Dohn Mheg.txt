@@ -1,0 +1,80 @@
+Fae Axe
+Fae Blade
+Fae Cane
+Fae Codex
+Fae Grimoire
+Fae Guillotine
+Fae Knives
+Fae Knuckles
+Fae Longbow
+Fae Manatrigger
+Fae Pistol
+Fae Planisphere
+Fae Rapier
+Fae Rod
+Fae Shield
+Fae Spear
+Fae Sword
+Fae Tathlums
+Voeburtite Armillae of Aiming
+Voeburtite Armillae of Casting
+Voeburtite Armillae of Fending
+Voeburtite Armillae of Healing
+Voeburtite Armillae of Slaying
+Voeburtite Belt of Aiming
+Voeburtite Belt of Casting
+Voeburtite Belt of Fending
+Voeburtite Belt of Healing
+Voeburtite Belt of Maiming
+Voeburtite Belt of Scouting
+Voeburtite Belt of Striking
+Voeburtite Beret of Aiming
+Voeburtite Circlet of Fending
+Voeburtite Circlet of Maiming
+Voeburtite Circlet of Scouting
+Voeburtite Circlet of Striking
+Voeburtite Earring of Aiming
+Voeburtite Earring of Casting
+Voeburtite Earring of Fending
+Voeburtite Earring of Healing
+Voeburtite Earring of Slaying
+Voeburtite Gaskins of Aiming
+Voeburtite Gaskins of Fending
+Voeburtite Gaskins of Maiming
+Voeburtite Gaskins of Scouting
+Voeburtite Gaskins of Striking
+Voeburtite Gauntlets of Aiming
+Voeburtite Gauntlets of Fending
+Voeburtite Gauntlets of Maiming
+Voeburtite Gauntlets of Scouting
+Voeburtite Gauntlets of Striking
+Voeburtite Gloves of Casting
+Voeburtite Gloves of Healing
+Voeburtite Greaves of Fending
+Voeburtite Greaves of Maiming
+Voeburtite Hat of Casting
+Voeburtite Hat of Healing
+Voeburtite Jacket of Aiming
+Voeburtite Jacket of Fending
+Voeburtite Jacket of Maiming
+Voeburtite Jacket of Scouting
+Voeburtite Jacket of Striking
+Voeburtite Necklace of Aiming
+Voeburtite Necklace of Casting
+Voeburtite Necklace of Fending
+Voeburtite Necklace of Healing
+Voeburtite Necklace of Slaying
+Voeburtite Ring of Aiming
+Voeburtite Ring of Casting
+Voeburtite Ring of Fending
+Voeburtite Ring of Healing
+Voeburtite Ring of Slaying
+Voeburtite Shoes of Casting
+Voeburtite Shoes of Healing
+Voeburtite Thighboots of Aiming
+Voeburtite Thighboots of Scouting
+Voeburtite Thighboots of Striking
+Voeburtite Trousers of Casting
+Voeburtite Trousers of Healing
+Voeburtite Tunic of Casting
+Voeburtite Tunic of Healing

@@ -1,0 +1,78 @@
+Ishgardian Banneret's Armor
+Ishgardian Banneret's Gauntlets
+Ishgardian Banneret's Helm
+Ishgardian Banneret's Sabatons
+Ishgardian Banneret's Tassets
+Ishgardian Banneret's Trousers
+Ishgardian Bowman's Armguards
+Ishgardian Bowman's Boots
+Ishgardian Bowman's Cap
+Ishgardian Bowman's Cyclas
+Ishgardian Bowman's Hose
+Ishgardian Bowman's Ringbelt
+Ishgardian Chaplain's Alb
+Ishgardian Chaplain's Bracelets
+Ishgardian Chaplain's Breeches
+Ishgardian Chaplain's Choker
+Ishgardian Chaplain's Corset
+Ishgardian Chaplain's Earrings
+Ishgardian Chaplain's Gloves
+Ishgardian Chaplain's Klobuk
+Ishgardian Chaplain's Ring
+Ishgardian Chaplain's Thighboots
+Ishgardian Historian's Bracelets
+Ishgardian Historian's Breeches
+Ishgardian Historian's Choker
+Ishgardian Historian's Corset
+Ishgardian Historian's Earrings
+Ishgardian Historian's Gloves
+Ishgardian Historian's Hat
+Ishgardian Historian's Ring
+Ishgardian Historian's Robe
+Ishgardian Historian's Thighboots
+Ishgardian Knight's Armor
+Ishgardian Knight's Bracelets
+Ishgardian Knight's Choker
+Ishgardian Knight's Earrings
+Ishgardian Knight's Gauntlets
+Ishgardian Knight's Helm
+Ishgardian Knight's Ring
+Ishgardian Knight's Sabatons
+Ishgardian Knight's Tassets
+Ishgardian Knight's Trousers
+Ishgardian Monastic's Armguards
+Ishgardian Monastic's Boots
+Ishgardian Monastic's Bracelets
+Ishgardian Monastic's Cap
+Ishgardian Monastic's Choker
+Ishgardian Monastic's Cyclas
+Ishgardian Monastic's Earrings
+Ishgardian Monastic's Hose
+Ishgardian Monastic's Ring
+Ishgardian Monastic's Ringbelt
+Ishgardian Outrider's Armguards
+Ishgardian Outrider's Boots
+Ishgardian Outrider's Bracelets
+Ishgardian Outrider's Cap
+Ishgardian Outrider's Choker
+Ishgardian Outrider's Cyclas
+Ishgardian Outrider's Earrings
+Ishgardian Outrider's Hose
+Ishgardian Outrider's Ring
+Ishgardian Outrider's Ringbelt
+Martial Axe
+Martial Bow
+Martial Codex
+Martial Crook
+Martial Foil
+Martial Greatsword
+Martial Grimoire
+Martial Halberd
+Martial Katana
+Martial Main Gauches
+Martial Musketoon
+Martial Patas
+Martial Planisphere
+Martial Rod
+Martial Shield
+Martial Sword

@@ -4,13 +4,13 @@ import requests
 import requests_cache
 from bs4 import BeautifulSoup
 import time
-import sys
+from pathlib import PurePath
 
 xivapi_key = os.getenv("XIVAPI_KEY")
 headers = {
     'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.101 Safari/537.36'}
 lodestone_base_url = "https://na.finalfantasyxiv.com"
-ex_versions = [
+expansions = [
     "A Realm Reborn",
     "Heavensward",
     "Stormblood",
@@ -19,7 +19,6 @@ ex_versions = [
 
 
 def xivapi_item(item_name):
-    print(f"Searching xivapi for \"{item_name}\"")
     xivapi_headers = {'user-agent': 'https://github.com/mistxiv'}
     columns = [
         'ID',
@@ -45,34 +44,74 @@ def xivapi_item(item_name):
 def can_equip(item):
     return item['EquipSlotCategory']['ID'] if item else False
 
-def lua_obj1_data_item(item):
+
+def hm_item_lua(item):
     return (
-        f'\t\t[{item["ID"]} = {{'
-        f'\t\t\t["Col"] = false,'
-        f'\t\t\t["Enabled"] = true,'
-        f'\t\t\t["HQ"] = true,'
-        f'\t\t\t["ItemName"] = "{item["Name"]}",'
-        f'\t\t\t["NQ"] = true,'
-        f'\t\t}},'
+        f'\t\t[{item["ID"]}] = {{\n'
+        f'\t\t\t["Col"] = false,\n'
+        f'\t\t\t["Enabled"] = true,\n'
+        f'\t\t\t["HQ"] = true,\n'
+        f'\t\t\t["ItemName"] = "{item["Name"]}",\n'
+        f'\t\t\t["NQ"] = true,\n'
+        f'\t\t}},\n'
     )
+
+
+def hm_profile_lua(items, profile_name, profile_type):
+    text = (
+        '-- Persistent Data\n'
+        'local multiRefObjects = {\n'
+        '\n' 
+        '} -- multiRefObjects\n'
+        'local obj1 = {\n'
+        '\t["Data"] = {\n'
+    )
+
+    for item in items:
+        text += hm_item_lua(item)
+
+    text += (
+        '\t},\n'
+        '\t["ProfileEnabled"] = false,\n'
+        f'\t["ProfileName"] = "{profile_name}",\n'
+        f'\t["ProfileType"] = "{profile_type}",\n'
+        '}\n'
+        'return obj1'
+        '\n'
+    )
+
+    return text
+
+
+def write_file(file_name, file_content):
+    os.makedirs(PurePath(file_name).parent, exist_ok=True)
+    with open(file_name, "w") as f:
+        f.write(file_content)
+    print(f"Wrote file: {file_name}")
 
 
 def main():
     requests_cache.install_cache("requests_cache")
 
     # For each expansion
-    for i, ex in enumerate(ex_versions):
-        p = f"output/{ex}"
-        os.makedirs(p, exist_ok=True)
+    for i, ex in enumerate(expansions):
         # For each dungeon
         for name, url in dungeon_urls(i).items():
             drops = dungeon_drops(url)
             drops_count = len(drops)
             if drops_count > 0:
-                outfile = f"{p}/{name}.txt"
-                with open(outfile, "w") as f:
-                    f.write("\n".join(d["Name"] for d in drops))
-                    print(f"Wrote file with {drops_count} equippable items: {outfile}")
+                print(f"Found {drops_count} eligible items for {name}")
+                # txt
+                outfile = f"output/txt/{name}.txt"
+                write_file(outfile, "\n".join(d["Name"] for d in drops))
+
+                # DesynthProfiles
+                outfile = f"output/DesynthProfiles/{name}.lua"
+                write_file(outfile, hm_profile_lua(drops, profile_name=name, profile_type="Desynthesis"))
+
+                # GCExchangeProfiles
+                outfile = f"output/GCExchangeProfiles/{name}.lua"
+                write_file(outfile, hm_profile_lua(drops, profile_name=name, profile_type="Desynthesis"))
 
 
 # Returns a dict of dungeon_name => lodestone url for a given expansion (0-3)

@@ -392,6 +392,6 @@ local obj1 = {
 	},
 	["ProfileEnabled"] = false,
 	["ProfileName"] = "Haukke Manor (Hard)",
-	["ProfileType"] = "Desynthesis",
+	["ProfileType"] = "GCExchange",
 }
 return obj1

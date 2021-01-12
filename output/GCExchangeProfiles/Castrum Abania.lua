@@ -567,6 +567,6 @@ local obj1 = {
 	},
 	["ProfileEnabled"] = false,
 	["ProfileName"] = "Castrum Abania",
-	["ProfileType"] = "Desynthesis",
+	["ProfileType"] = "GCExchange",
 }
 return obj1

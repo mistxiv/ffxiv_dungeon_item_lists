@@ -441,6 +441,6 @@ local obj1 = {
 	},
 	["ProfileEnabled"] = false,
 	["ProfileName"] = "Sohr Khai",
-	["ProfileType"] = "Desynthesis",
+	["ProfileType"] = "GCExchange",
 }
 return obj1

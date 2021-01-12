@@ -553,6 +553,6 @@ local obj1 = {
 	},
 	["ProfileEnabled"] = false,
 	["ProfileName"] = "The Great Gubal Library",
-	["ProfileType"] = "Desynthesis",
+	["ProfileType"] = "GCExchange",
 }
 return obj1

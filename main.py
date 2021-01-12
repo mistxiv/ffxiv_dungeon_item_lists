@@ -111,7 +111,7 @@ def main():
 
                 # GCExchangeProfiles
                 outfile = f"output/GCExchangeProfiles/{name}.lua"
-                write_file(outfile, hm_profile_lua(drops, profile_name=name, profile_type="Desynthesis"))
+                write_file(outfile, hm_profile_lua(drops, profile_name=name, profile_type="GCExchange"))
 
 
 # Returns a dict of dungeon_name => lodestone url for a given expansion (0-3)
